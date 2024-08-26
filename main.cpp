@@ -8,7 +8,7 @@ int main()
 
 	cout << "Edit Cout" << endl;
 
-	cout << "New feature" << endl;
+	cout << "New Feature" << endl;
 
 	return 0;
 }
